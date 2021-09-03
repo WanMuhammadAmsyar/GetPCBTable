@@ -1,0 +1,10 @@
+C:\Users\P2 Digital Macbook\Desktop\ReadLHDN\bin\Debug\ReadLHDN.exe.config
+C:\Users\P2 Digital Macbook\Desktop\ReadLHDN\bin\Debug\ReadLHDN.exe
+C:\Users\P2 Digital Macbook\Desktop\ReadLHDN\bin\Debug\ReadLHDN.pdb
+C:\Users\P2 Digital Macbook\Desktop\ReadLHDN\bin\Debug\Newtonsoft.Json.dll
+C:\Users\P2 Digital Macbook\Desktop\ReadLHDN\bin\Debug\Newtonsoft.Json.xml
+C:\Users\P2 Digital Macbook\Desktop\ReadLHDN\obj\Debug\ReadLHDN.csprojAssemblyReference.cache
+C:\Users\P2 Digital Macbook\Desktop\ReadLHDN\obj\Debug\ReadLHDN.csproj.CoreCompileInputs.cache
+C:\Users\P2 Digital Macbook\Desktop\ReadLHDN\obj\Debug\ReadLHDN.csproj.CopyComplete
+C:\Users\P2 Digital Macbook\Desktop\ReadLHDN\obj\Debug\ReadLHDN.exe
+C:\Users\P2 Digital Macbook\Desktop\ReadLHDN\obj\Debug\ReadLHDN.pdb
