@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\P2 Digital Macbook\\Desktop\\ReadLHDNData\\ReadLHDNData.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\P2 Digital Macbook\\Desktop\\ReadLHDNData\\ReadLHDNData.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\P2 Digital Macbook\\Desktop\\ReadLHDNData\\ReadLHDNData.csproj",
+        "projectName": "ReadLHDNData",
+        "projectPath": "C:\\Users\\P2 Digital Macbook\\Desktop\\ReadLHDNData\\ReadLHDNData.csproj",
+        "packagesPath": "C:\\Users\\P2 Digital Macbook\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\P2 Digital Macbook\\Desktop\\ReadLHDNData\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\P2 Digital Macbook\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Office.Interop.Excel": {
+              "target": "Package",
+              "version": "[15.0.4795.1000, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

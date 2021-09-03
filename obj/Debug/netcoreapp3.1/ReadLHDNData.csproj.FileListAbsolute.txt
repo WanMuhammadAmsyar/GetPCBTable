@@ -1,0 +1,16 @@
+C:\Users\P2 Digital Macbook\Desktop\ReadLHDNData\bin\Debug\netcoreapp3.1\ReadLHDNData.exe
+C:\Users\P2 Digital Macbook\Desktop\ReadLHDNData\bin\Debug\netcoreapp3.1\ReadLHDNData.deps.json
+C:\Users\P2 Digital Macbook\Desktop\ReadLHDNData\bin\Debug\netcoreapp3.1\ReadLHDNData.runtimeconfig.json
+C:\Users\P2 Digital Macbook\Desktop\ReadLHDNData\bin\Debug\netcoreapp3.1\ReadLHDNData.runtimeconfig.dev.json
+C:\Users\P2 Digital Macbook\Desktop\ReadLHDNData\bin\Debug\netcoreapp3.1\ReadLHDNData.dll
+C:\Users\P2 Digital Macbook\Desktop\ReadLHDNData\bin\Debug\netcoreapp3.1\ReadLHDNData.pdb
+C:\Users\P2 Digital Macbook\Desktop\ReadLHDNData\obj\Debug\netcoreapp3.1\ReadLHDNData.csprojAssemblyReference.cache
+C:\Users\P2 Digital Macbook\Desktop\ReadLHDNData\obj\Debug\netcoreapp3.1\ReadLHDNData.AssemblyInfoInputs.cache
+C:\Users\P2 Digital Macbook\Desktop\ReadLHDNData\obj\Debug\netcoreapp3.1\ReadLHDNData.AssemblyInfo.cs
+C:\Users\P2 Digital Macbook\Desktop\ReadLHDNData\obj\Debug\netcoreapp3.1\ReadLHDNData.csproj.CoreCompileInputs.cache
+C:\Users\P2 Digital Macbook\Desktop\ReadLHDNData\obj\Debug\netcoreapp3.1\ReadLHDNData.dll
+C:\Users\P2 Digital Macbook\Desktop\ReadLHDNData\obj\Debug\netcoreapp3.1\ReadLHDNData.pdb
+C:\Users\P2 Digital Macbook\Desktop\ReadLHDNData\obj\Debug\netcoreapp3.1\ReadLHDNData.genruntimeconfig.cache
+C:\Users\P2 Digital Macbook\Desktop\ReadLHDNData\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\P2 Digital Macbook\Desktop\ReadLHDNData\obj\Debug\netcoreapp3.1\ReadLHDNData.csproj.CopyComplete
+C:\Users\P2 Digital Macbook\Desktop\ReadLHDNData\bin\Debug\netcoreapp3.1\Microsoft.Office.Interop.Excel.dll
